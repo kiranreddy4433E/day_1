@@ -16,12 +16,8 @@ public class pro_8 {
 			if(value.equalsIgnoreCase(v)) {
 				isVowel = true;
 				break;
-				
 			}
-			
-		
 		}
-		
 		if (isVowel) {
 			System.out.println("Vowel");
 		}
